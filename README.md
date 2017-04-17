@@ -1,0 +1,2 @@
+# CSN212_Convex_Hull_Assignment
+.This repository contains 4 files and their descriptions are as follows-:1. Runtime file - This file has run time of all the algorithms implemented and their graphs too. 2.  Gift Wrapping Algorithm - Contains the implementation of gift wrapping algorithm. 3. Graham Scan file - Contains the implementation of graham scan file algorithm. 4 Quick Hull - Contains the implementation of Quick Hull Algorithm.
